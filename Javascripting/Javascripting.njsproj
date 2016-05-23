@@ -12,7 +12,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>21fb35b3-f2b7-462a-9fbc-f3210b55887d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>javascripting\for-loop.js</StartupFile>
+    <StartupFile>javascripting\arrays.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.js" />
+    <Compile Include="javascripting\arrays.js" />
     <Compile Include="javascripting\for-loop.js" />
     <Compile Include="javascripting\if-statement.js" />
     <Compile Include="javascripting\introduction.js" />
