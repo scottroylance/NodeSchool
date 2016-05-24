@@ -46,6 +46,7 @@
     <Compile Include="javascripting\objects.js" />
     <Compile Include="javascripting\revising-strings.js" />
     <Compile Include="javascripting\rounding-numbers.js" />
+    <Compile Include="javascripting\scope.js" />
     <Compile Include="javascripting\string-length.js" />
     <Compile Include="javascripting\strings.js" />
     <Compile Include="javascripting\variables.js" />
