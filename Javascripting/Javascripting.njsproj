@@ -12,7 +12,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>21fb35b3-f2b7-462a-9fbc-f3210b55887d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>javascripting\looping-through-arrays.js</StartupFile>
+    <StartupFile>javascripting\objects.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -40,6 +40,7 @@
     <Compile Include="javascripting\looping-through-arrays.js" />
     <Compile Include="javascripting\number-to-string.js" />
     <Compile Include="javascripting\numbers.js" />
+    <Compile Include="javascripting\objects.js" />
     <Compile Include="javascripting\revising-strings.js" />
     <Compile Include="javascripting\rounding-numbers.js" />
     <Compile Include="javascripting\string-length.js" />
