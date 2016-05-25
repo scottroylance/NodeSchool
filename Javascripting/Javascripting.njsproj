@@ -12,7 +12,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>21fb35b3-f2b7-462a-9fbc-f3210b55887d</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>javascripting\scope.js</StartupFile>
+    <StartupFile>NodeTwo\node_program.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -50,6 +50,7 @@
     <Compile Include="javascripting\string-length.js" />
     <Compile Include="javascripting\strings.js" />
     <Compile Include="javascripting\variables.js" />
+    <Compile Include="NodeTwo\node_program.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
   </ItemGroup>
