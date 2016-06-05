@@ -8,3 +8,6 @@ for (var i = 0; i < limit; i++) {
 
 //console.log('The grand total is ' + total);
 console.log(total);
+
+//var output = console.log("12345")
+//console.log(output);
